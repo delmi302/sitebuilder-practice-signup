@@ -1,1 +1,7 @@
-# sitebuilder-practice-signup
+# Weboldalkészítés - Gyakorlófeladatok - Regisztráció
+
+Helló!
+
+Ez a CodeBerry Weboldalkészítés - Gyakorlófeladatok című moduljának harmadik példamegoldása.
+
+A kész oldalt itt tudod megnézni élőben:
